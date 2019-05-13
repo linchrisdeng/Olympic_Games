@@ -1,7 +1,7 @@
 # Olympic Games (RShiny App)
 ### App Name 
 
-See online version [here](<https://deng0068.shinyapps.io/OlympicGames/>)
+Olympic Games (See online version [here](<https://deng0068.shinyapps.io/OlympicGames/>))
 
 ### App Purpose
 
