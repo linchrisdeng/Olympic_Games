@@ -1,0 +1,13 @@
+name: OlympicGames
+title: OlympicGames
+username:
+account: deng0068
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 915219
+bundleId: 2066930
+url: https://deng0068.shinyapps.io/OlympicGames/
+when: 1557244226.53941
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: countries.geo.json|custom.geo.json
